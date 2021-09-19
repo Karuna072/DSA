@@ -6,7 +6,7 @@ int main(void) {
 	char temp;
 	char str[100];
 	
-	scanf("%s",&str);
+	scanf("%s",&str);  //give input as HELLO
 	while(str[len]!='\0')
 	{
 		len++;
