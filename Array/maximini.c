@@ -5,11 +5,11 @@ int main(void) {
 
 	// your code goes 
 	int temp,n;
-	scanf("%d\n",&n);
+	scanf("%d\n",&n);  //give input as 5
 	int arr[n];
 	for(int i=0;i<n;i++)
 	{
-		scanf("%d",&arr[i]);
+		scanf("%d",&arr[i]);  //give input as 1 3 4 2 5
 		
 	}
 	for(int i=0;i<n-1;i++) //pass
